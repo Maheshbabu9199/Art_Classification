@@ -27,6 +27,6 @@
 ## Acknowledgments
   -  The VGG19 model architecture was developed by the **Visual Geometry Group at Oxford**.
   -  The project utilizes TensorFlow and Keras for deep learning implementation.
-  -  The dataset used in this project was built by **Cash Bowman** in [kaggle](https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images).
+  -  The dataset used in this project was built by [**Cash Bowman**](https://www.kaggle.com/cashbowman/) in kaggle.
 
 
